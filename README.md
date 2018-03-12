@@ -166,3 +166,7 @@ Depending on where you are interviewing, go through the company blog . VERY USEF
  8. Monetization
 
 Best of luck :+1:, feel free to send pull requests to add more content to this git! Will be updating it from time to time.
+
+
+## More interesting location to have a look at:
+https://hackernoon.com/how-not-to-design-netflix-in-your-45-minute-system-design-interview-64953391a054
